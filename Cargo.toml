@@ -1,0 +1,9 @@
+[package]
+name = "slp"
+description = "Sleep eLler Pause"
+version = "0.1.0"
+authors = ["LFalch <lucas@wasd.dk>"]
+edition = "2018"
+
+[dependencies]
+pancurses = "0.16"
